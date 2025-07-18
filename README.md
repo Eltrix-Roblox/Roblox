@@ -2,7 +2,7 @@
 The Eltrix Plaza Game
 Hello my name is Eltrix i made the Eltrix Plaza Game
 Why make a website on Github its easy and i can share my lua code.
-                              --Beta Version 1--
+  <p align="center">                            --Beta Version 1--
 
   Stats -Map 10% Completed - Ui 40% Completed - Others 35% Completed-
                   What are we creating now for Beta Version 2
@@ -12,5 +12,5 @@ Why make a website on Github its easy and i can share my lua code.
 
 -Others (Scripts,Bugs,Loading,Graphics) - Why not now i need to make a Loader so the extra graphics wil lua
                             
---Beta Version 2--     
---Coming Soon to the Roblox Game---                                                           
+<p align="center">--Beta Version 2--     
+<p align="center">--Coming Soon to the Roblox Game---                                                           
