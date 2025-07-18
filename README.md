@@ -21,4 +21,8 @@ Why make a website on Github its easy and i can share my lua code.
 <p align="center">--Coming Soon to the Roblox Game---  
 
 
-Socials [DevForum](https://devforum.roblox.com/u/herkenrat78/summary), [DiscordServer](https://discord.gg/kEj6UDdQvb), [Tiktok](https://www.tiktok.com/@vitrax_dizzie?_t=ZG-8y8Bad7hHwO&_r=1), [Instagram](https://www.instagram.com/eltrix__dizzie?igsh=ZGg1MzdleDc4azdt&utm_source=qr)
+**Socials:**
+- [DevForum](https://devforum.roblox.com/u/herkenrat78/summary)
+- [Discord Server](https://discord.gg/kEj6UDdQvb)
+- [TikTok](https://www.tiktok.com/@vitrax_dizzie?_t=ZG-8y8Bad7hHwO&_r=1)
+- [Instagram](https://www.instagram.com/eltrix__dizzie?igsh=ZGg1MzdleDc4azdt&utm_source=qr)
